@@ -1,4 +1,4 @@
-Demo https://psinha6.github.io/index.html
+Demo https://psinha6.github.io/monster-rolodex-react/index.html
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
